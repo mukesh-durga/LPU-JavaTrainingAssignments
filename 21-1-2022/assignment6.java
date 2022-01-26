@@ -32,7 +32,7 @@ public class assignment6 {
 
 		System.out.println();
 		System.out.println("-------------------------------------");
-		System.out.println("Image after 180 degree rotate to left: ");
+		System.out.println("Image after 180 degree rotation to left: ");
 		System.out.println();
          System.out.println("_____________________________________");
 		for (int i = 2; i>=0; i--) {
