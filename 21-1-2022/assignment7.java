@@ -1,4 +1,4 @@
-/*Assignment 3: GraScale The Image
+/*Assignment: GraScale The Image
 For a pixel sum af all values and divide by 3
 for eg. values 12,34,45  12+34+45/3= 25
 then pixel1=[25,25,25)*/
